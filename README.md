@@ -1,2 +1,7 @@
-# biometric-breach-privacy-regulatory-analysis
-Privacy-first analysis of biometric data breaches examining regulatory gaps, consumer harm, AI-driven fraud, and post-quantum cryptographic risk.
+# Biometric Data Breaches: Privacy, Law, and Long-Term Consumer Risk
+
+Biometric authentication is often marketed as secure and seamless. This project challenges that narrative by examining biometric systems through the lens of privacy law, governance failure, and long-term consumer harm. Unlike passwords, biometric identifiers are immutable. When exposed, fingerprints, facial templates, iris scans, and behavioral signatures cannot be reset. This paper evaluates how technical vulnerabilities, centralized storage, regulatory fragmentation, and weak organizational safeguards combine to create sustained identity and surveillance risks for consumers.
+
+The analysis integrates real breach case studies, cost-benefit modeling, and forward-looking threat scenarios including deepfake-enabled fraud and post-quantum cryptographic failure. It evaluates regulatory mechanisms such as BIPA, CCPA, FTC enforcement authority, and NIST standards, and identifies where accountability gaps persist. Rather than treating biometric breaches as isolated technical failures, this work frames them as systemic governance failures. It proposes layered recommendations across consumers, organizations, and policymakers grounded in privacy-by-design, data minimization, cancelable biometrics, zero-knowledge architectures, and quantum-resilient encryption roadmaps.
+
+At its core, this project argues that biometric authentication is not just a security control. It is a permanent privacy decision. Organizations that deploy it without enforceable governance, lifecycle management, and revocability mechanisms transfer disproportionate and lifelong risk to consumers.
